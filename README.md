@@ -17,7 +17,9 @@ Description:
 3. Zombies spawn from random places and start chasing the player, and try to attack the Player.
 4. Player can collect diffent types of melee/shooting weapons to kill the zombies.
 
-Video:
+Video: 
+https://github.com/spoiler335/sushant.github.io/assets/54944126/0eb2f196-4e19-4cf9-9ac5-3a5ea3b07911
+
 
 ### Multiplayer Top Spin Game(Unity)
 

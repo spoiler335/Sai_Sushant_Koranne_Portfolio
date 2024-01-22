@@ -18,8 +18,8 @@ Description:
 4. Player can collect diffent types of melee/shooting weapons to kill the zombies.
 
 Video: 
-https://github.com/spoiler335/sushant.github.io/assets/54944126/0eb2f196-4e19-4cf9-9ac5-3a5ea3b07911
-
+<video src="https://drive.google.com/file/d/1U_C2vyjTJ4OvvH-dxqqRr114melqp2Np/view?usp=drive_link" controls="controls" style="max-width: 730px;">
+</video>
 
 ### Multiplayer Top Spin Game(Unity)
 
@@ -32,7 +32,9 @@ Description:
 6. Whenever a player's speed becomes zero, he loses.
 
 Video: 
-![Alt text] https://drive.google.com/file/d/1azOcJk6blNIGN3PWdYcsNr8DVT_qDBa6/view?usp=drive_link
+<video src="https://drive.google.com/file/d/1azOcJk6blNIGN3PWdYcsNr8DVT_qDBa6/view?usp=drive_link" controls="controls" style="max-width: 730px;">
+</video>
+
 
 ### Bomberman(Unity)
 
@@ -44,7 +46,8 @@ Description:
 5. When there are only 2 enemies remaining, they move away from the player as far as possible.
 
 Video: 
-![Alt text] https://drive.google.com/file/d/1uZU63bv8w1Fjsz1FgGP2pXJONHN81Xim/view?usp=drive_link
+<video src="https://drive.google.com/file/d/1uZU63bv8w1Fjsz1FgGP2pXJONHN81Xim/view?usp=drive_link" controls="controls" style="max-width: 730px;">
+</video>
 
 ### Snake Game(Unity)
 
@@ -58,7 +61,9 @@ Description:
 6. If the the Player attcts the head of the enemy the enemy is dead.
 
 Video: 
-![Alt text] https://drive.google.com/file/d/1Xf7BrcK1LzorOENNvWXiiqc7JBm6S818/view?usp=drive_link
+<video src="https://drive.google.com/file/d/1Xf7BrcK1LzorOENNvWXiiqc7JBm6S818/view?usp=drive_link" controls="controls" style="max-width: 730px;">
+</video>
+
 
 ### Obstacles Path(Unreal)
 
@@ -68,7 +73,9 @@ Description:
 3. The player has to go through these obstacles and reach his final destination.
 
 Video: 
-![Alt text] https://drive.google.com/file/d/1UYEjyXTsrtarQkPQbejlFqCE8-fO_6t5/view?usp=drive_link
+<video src="https://drive.google.com/file/d/1UYEjyXTsrtarQkPQbejlFqCE8-fO_6t5/view?usp=drive_link" controls="controls" style="max-width: 730px;">
+</video>
+
 
 ### Warehouse Wreckage(Unreal)
 
@@ -78,7 +85,9 @@ Description:
 3. Hit Some Cans using those Projectiles and the Cans Fall Down.
 
 Video: 
-![Alt text] https://drive.google.com/file/d/1T4DW7ZRGkYYPZh6L95njp_s4KwSBJ2lG/view?usp=drive_link
+<video src="https://drive.google.com/file/d/1T4DW7ZRGkYYPZh6L95njp_s4KwSBJ2lG/view?usp=drive_link" controls="controls" style="max-width: 730px;">
+</video>
+
 
 ### Racing Game Using Reinforcement Learning
 

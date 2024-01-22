@@ -18,8 +18,8 @@ Description:
 4. Player can collect diffent types of melee/shooting weapons to kill the zombies.
 
 Video: 
-<video src="https://drive.google.com/file/d/1U_C2vyjTJ4OvvH-dxqqRr114melqp2Np/preview" controls="controls" style="max-width: 730px;">
-</video>
+<iframe src="https://drive.google.com/file/d/1U_C2vyjTJ4OvvH-dxqqRr114melqp2Np/preview" width="640" height="480">
+</iframe>
 
 ### Multiplayer Top Spin Game(Unity)
 
@@ -32,8 +32,8 @@ Description:
 6. Whenever a player's speed becomes zero, he loses.
 
 Video: 
-<video src="https://drive.google.com/file/d/1azOcJk6blNIGN3PWdYcsNr8DVT_qDBa6/preview" controls="controls" style="max-width: 730px;">
-</video>
+<iframe src="https://drive.google.com/file/d/1azOcJk6blNIGN3PWdYcsNr8DVT_qDBa6/preview" width="640" height="480">
+</iframe>
 
 
 ### Bomberman(Unity)
@@ -46,8 +46,8 @@ Description:
 5. When there are only 2 enemies remaining, they move away from the player as far as possible.
 
 Video: 
-<video src="https://drive.google.com/file/d/1uZU63bv8w1Fjsz1FgGP2pXJONHN81Xim/preview" controls="controls" style="max-width: 730px;">
-</video>
+<iframe src="https://drive.google.com/file/d/1uZU63bv8w1Fjsz1FgGP2pXJONHN81Xim/preview" width="640" height="480">
+</iframe>
 
 ### Snake Game(Unity)
 
@@ -61,9 +61,8 @@ Description:
 6. If the the Player attcts the head of the enemy the enemy is dead.
 
 Video: 
-<video src="https://drive.google.com/file/d/1Xf7BrcK1LzorOENNvWXiiqc7JBm6S818/preview" controls="controls" style="max-width: 730px;">
-</video>
-
+<iframe src="https://drive.google.com/file/d/1Xf7BrcK1LzorOENNvWXiiqc7JBm6S818/preview" width="640" height="480">
+</iframe>
 
 ### Obstacles Path(Unreal)
 
@@ -73,9 +72,8 @@ Description:
 3. The player has to go through these obstacles and reach his final destination.
 
 Video: 
-<video src="https://drive.google.com/file/d/1UYEjyXTsrtarQkPQbejlFqCE8-fO_6t5/preview" controls="controls" style="max-width: 730px;">
-</video>
-
+<iframe src="https://drive.google.com/file/d/1UYEjyXTsrtarQkPQbejlFqCE8-fO_6t5/preview" width="640" height="480">
+</iframe>
 
 ### Warehouse Wreckage(Unreal)
 
@@ -84,10 +82,9 @@ Description:
 2. Spawn and Launch Spherical Projectiles.
 3. Hit Some Cans using those Projectiles and the Cans Fall Down.
 
-Video: 
-<video src="https://drive.google.com/file/d/1T4DW7ZRGkYYPZh6L95njp_s4KwSBJ2lG/preview" controls="controls" style="max-width: 730px;">
-</video>
-
+Video:
+<iframe src="https://drive.google.com/file/d/1T4DW7ZRGkYYPZh6L95njp_s4KwSBJ2lG/preview" width="640" height="480">
+</iframe>
 
 ### Racing Game Using Reinforcement Learning
 

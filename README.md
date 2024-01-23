@@ -5,6 +5,8 @@ Welcome to my game development portfolio! Here you can find a collection of the 
 
 I am a passionate game developer with 1.5 years of experience in the industry. I specialize in Unity and Unreal Engine, for 2d and 3d games. I am dedicated to creating engaging and immersive gaming experiences for players.
 
+For futher information you can refer myand my [Resume](./Sai%20Sushant%20Koranne-Resume.pdf).
+
 
 ## My Games
 
@@ -87,7 +89,7 @@ Description:
 1. A flight racing game, where the enemy agents are trained using Reinforcement Learning. 
 2. A positive Reward is given whenever the agent passes through the check point.
 3. If the agent misses the check point a negative reward is awarded.
- 
+
 
 ## Skills
 
@@ -95,14 +97,15 @@ Description:
 C, C++, Java, C#
 - Game Engines: Unity, Unreal
 
+## More Works
+
+You can refer my [GitHub](https://github.com/spoiler335/) profile and these [Vidoes](https://drive.google.com/drive/folders/11bTFgOxsSBlbIwr5H27JbsfmvfofN14l?usp=sharing) for my futher works.
 
 ## Contact Me
 
-- [GitHub](https://github.com/spoiler335/)
 - [LinkedIn](https://www.linkedin.com/in/sai-sushant-a107a51a4)
 - [Mail](mailto:sushantsai8@gmail.com)
+- [Phone](tel:+919393027930) 
 
-## My Resume
- - [Download](./Sai%20Sushant%20Koranne-Resume.pdf)
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a game development project!

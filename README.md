@@ -4,7 +4,8 @@ Welcome to my game development portfolio! Here you can find a collection of the 
 
 ## About Me
 
-I am a passionate game developer with [1.5] years of experience in the industry. I specialize in [Unity and Unreal Engine, for 2d and 3d games]. I am dedicated to creating engaging and immersive gaming experiences for players.
+I am a passionate game developer with 1.5 years of experience in the industry. I specialize in Unity and Unreal Engine, for 2d and 3d games. I am dedicated to creating engaging and immersive gaming experiences for players.
+
 
 ## My Games
 
@@ -12,7 +13,7 @@ I am a passionate game developer with [1.5] years of experience in the industry.
 
 Description: 
 
-1. This Game is a Horror Surviva Game.
+1. This Game is a Horror Survival Game.
 2. The Player is spanned in a dark Location.
 3. Zombies spawn from random places and start chasing the player, and try to attack the Player.
 4. Player can collect diffent types of melee/shooting weapons to kill the zombies.
@@ -98,8 +99,11 @@ C, C++, Java, C#
 
 ## Contact Me
 
-- GitHub: https://github.com/spoiler335/
-- LinkedIn: in/sai-sushant-a107a51a4
-- Email: sushantsai8@gmail.com
+- [GitHub](https://github.com/spoiler335/)
+- [LinkedIn](https://www.linkedin.com/in/sai-sushant-a107a51a4)
+- [Mail](mailto:sushantsai8@gmail.com)
+
+## My Resume
+ - [Download](./Sai%20Sushant%20Koranne-Resume.pdf)
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a game development project!

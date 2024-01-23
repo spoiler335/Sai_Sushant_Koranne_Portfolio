@@ -1,4 +1,3 @@
-# Sai Sushant Koranne's Game Development Portfolio
 
 Welcome to my game development portfolio! Here you can find a collection of the games I've developed, along with information about my skills and experience in game development.
 

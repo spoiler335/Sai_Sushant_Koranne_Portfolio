@@ -5,7 +5,7 @@ Welcome to my game development portfolio! Here you can find a collection of the 
 
 I am a passionate game developer with 1.5 years of experience in the industry. I specialize in Unity and Unreal Engine, for 2d and 3d games. I am dedicated to creating engaging and immersive gaming experiences for players.
 
-For futher information you can refer myand my [Resume](./Sai%20Sushant%20Koranne-Resume.pdf).
+For futher information you can refer my [Resume](./Sai%20Sushant%20Koranne-Resume.pdf).
 
 
 ## My Games

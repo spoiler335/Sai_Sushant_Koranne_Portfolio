@@ -33,7 +33,7 @@ Description:
 5. When the player destroyes the enimes in all regions the game is completed.  
 
 Video: 
-<iframe src="https://drive.google.com/file/d/1387nFVGWt4GmfJ8PuB5qkHckT1Pj7djj/view?usp=sharing" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1387nFVGWt4GmfJ8PuB5qkHckT1Pj7djj/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ### Multiplayer Top Spin Game(Unity)
 

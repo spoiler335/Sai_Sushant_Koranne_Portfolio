@@ -129,6 +129,20 @@ Video:
 Video:
 <iframe src="https://www.youtube.com/embed/Od93C2ISG74" width="640" height="480" allow="autoplay"></iframe>
 
+### Audio Engine Usimg C++ in Multithread Aritechture
+
+1. Developed a C++ multithreaded runtime audio engine library, utilizing the XAudio2 API for low-level audio processing and playback.
+2. Designed and implemented multithreaded components, including custom handles, inter-threading queuing system, and thread tracking for efficient audio management.
+3. Integrated advanced features like asynchronous real-time loading/streaming and a dynamic preemptive priority system for seamless audio experiences.
+4. Enabled flexible audio control through application-defined user callbacks and data-driven script playback.
+5. Validated engine robustness through a series of mini-demos, proving the feasibility of the multithreaded audio solution.
+
+Architecture:
+<img src="./Audio-Arc.png" alt="Description" width="500" height="500">
+
+Video:
+<iframe src="https://www.youtube.com/embed/pFoSYXbLc_w" width="640" height="480" allow="autoplay"></iframe>
+
 ## Skills
 
 - Programming Languages: 

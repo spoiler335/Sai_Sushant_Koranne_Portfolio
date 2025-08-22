@@ -113,7 +113,7 @@ Descrption:
 4. Efficient Object Management: Applied patterns such as Object Pool (implicitly or explicitly) to manage bullet and enemy instances, optimizing performance by reducing object instantiation and destruction overhead.
 
 Video:
-<iframe src="https://youtu.be/rV2u6_DlC0s/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://youtu.be/rV2u6_DlC0s/" width="640" height="480" allow="autoplay"></iframe>
 
 ## Additional Projets
 

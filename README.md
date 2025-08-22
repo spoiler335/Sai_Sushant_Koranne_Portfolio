@@ -135,7 +135,7 @@ You can refer my [GitHub](https://github.com/spoiler335/) profile and these [Vid
 - [LinkedIn](https://www.linkedin.com/in/sai-sushant-a107a51a4)
 - [Mail](mailto:sushantsaige@gmail.com)
 - [Phone](tel:+13126878202)
-- [WhatsApp](https://wa.me/3126878202)
+- [WhatsApp](https://wa.me/+13126878202)
 
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a game development project!

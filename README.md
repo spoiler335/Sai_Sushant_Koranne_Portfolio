@@ -95,7 +95,7 @@ Description:
 Video:
 <iframe src="https://drive.google.com/file/d/1T4DW7ZRGkYYPZh6L95njp_s4KwSBJ2lG/preview" width="640" height="480" allow="autoplay"></iframe>
 
-### Racing Game Using Reinforcement Learning
+### Racing Game Using Reinforcement Learning(Unity)
 
 Description: 
 
@@ -103,12 +103,28 @@ Description:
 2. A positive Reward is given whenever the agent passes through the check point.
 3. If the agent misses the check point a negative reward is awarded.
 
+### Space Invaders Game(C#- Custom Game Engine)
+
+Descrption:
+
+1. Design Pattern-Driven Architecture: Designed the core architecture of the Space Invaders game using C#, employing various design patterns including Factory for dynamic object creation (bullets, enemies), Observer for event handling (score updates, game state changes), and State for managing different enemy behaviors or game modes.
+2. Modular & Extensible Gameplay: Utilized design patterns to ensure modularity and extensibility of game systems, allowing for easy integration of new enemy types, power-ups, or gameplay mechanics without extensive code refactoring.
+3. Real-time Performance & Behavior: Implemented design patterns like Strategy for different enemy movement or attack patterns, ensuring flexible and optimized real-time behavior within the custom C# engine. According to Medium, these patterns help build scalable, maintainable, and flexible games.
+4. Efficient Object Management: Applied patterns such as Object Pool (implicitly or explicitly) to manage bullet and enemy instances, optimizing performance by reducing object instantiation and destruction overhead.
+
+Video:
+<iframe src="https://youtu.be/rV2u6_DlC0s/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Additional Projets
+
+
 
 ## Skills
 
 - Programming Languages: 
 C, C++, Java, C#
 - Game Engines: Unity, Unreal
+- VSC : Git, Helix P4V
 
 ## More Works
 
@@ -117,9 +133,9 @@ You can refer my [GitHub](https://github.com/spoiler335/) profile and these [Vid
 ## Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/sai-sushant-a107a51a4)
-- [Mail](mailto:sushantsai8@gmail.com)
-- [Phone](tel:+919393027930)
-- [WhatsApp](https://wa.me/9393027930)
+- [Mail](mailto:sushantsaige@gmail.com)
+- [Phone](tel:+13126878202)
+- [WhatsApp](https://wa.me/3126878202)
 
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a game development project!

@@ -117,7 +117,17 @@ Video:
 
 ## Additional Projets
 
+### Game Engine By Dx11 Abstraction using C++ (Inprogress)
 
+1. DirectX 11 Abstraction for 3D Rendering: Architected and implemented a custom rendering pipeline in C++ by abstracting DirectX 11, enabling efficient rendering of 3D models, textures, and UV maps. This highlights expertise in graphics API programming and rendering techniques.
+2. Custom Resource Management System for 3D Assets: Developed a custom file library to manage the loading and handling of various 3D assets, including models, textures, and UV maps, ensuring efficient resource management and streamlined asset pipeline.
+3. Real-time Object Transformation and Manipulation: Implemented core 3D transformations (translation, rotation, and scaling) on loaded 3D models, demonstrating a fundamental understanding of 3D rendering pipelines and scene graph management.
+4. Custom Math Library for 3D Graphics Operations: Created a custom math library, encompassing vector and matrix operations, specifically tailored to handle 3D graphics transformations efficiently. This shows a strong grasp of linear algebra and its practical application in game development.
+5. PCS Tree for 3D Scene Management: Designed and implemented a custom PCS tree structure, showcasing the ability to organize and manage 3D objects within the game world for improved scalability and performance.
+6. Foundational Game Engine Development: Successfully developed a core set of features for a custom game engine, including rendering, asset loading, and scene management, demonstrating a holistic approach to building a foundational game development platform.
+
+Video:
+<iframe src="https://www.youtube.com/embed/Od93C2ISG74" width="640" height="480" allow="autoplay"></iframe>
 
 ## Skills
 

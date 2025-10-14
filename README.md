@@ -3,12 +3,24 @@ Welcome to my game development portfolio! Here you can find a collection of the 
 
 ## About Me
 
-I am a passionate game developer with 1.5 years of experience in the industry. I specialize in Unity and Unreal Engine, for 2d and 3d games. I am dedicated to creating engaging and immersive gaming experiences for players.
+I’m a Game Programmer in training at DePaul University, with 3 years of industry experience split between game development and software engineering. I specialize in C#, Unity, C++, and Unreal Engine, and I’ve worked across both 2D and 3D projects—from building gameplay systems to refining player interactions. What excites me most is crafting worlds and mechanics that pull players in and keep them engaged, blending technical precision with creative design.
 
 For futher information you can refer my [Resume](./Sai%20Sushant%20Koranne-Resume.pdf).
 
 
-## My Games
+## My Work
+
+### Game Engine By Dx11 Abstraction using C++ (Inprogress)
+
+1. DirectX 11 Abstraction for 3D Rendering: Architected and implemented a custom rendering pipeline in C++ by abstracting DirectX 11, enabling efficient rendering of 3D models, textures, and UV maps. This highlights expertise in graphics API programming and rendering techniques.
+2. Custom Resource Management System for 3D Assets: Developed a custom file library to manage the loading and handling of various 3D assets, including models, textures, and UV maps, ensuring efficient resource management and streamlined asset pipeline.
+3. Real-time Object Transformation and Manipulation: Implemented core 3D transformations (translation, rotation, and scaling) on loaded 3D models, demonstrating a fundamental understanding of 3D rendering pipelines and scene graph management.
+4. Custom Math Library for 3D Graphics Operations: Created a custom math library, encompassing vector and matrix operations, specifically tailored to handle 3D graphics transformations efficiently. This shows a strong grasp of linear algebra and its practical application in game development.
+5. PCS Tree for 3D Scene Management: Designed and implemented a custom PCS tree structure, showcasing the ability to organize and manage 3D objects within the game world for improved scalability and performance.
+6. Foundational Game Engine Development: Successfully developed a core set of features for a custom game engine, including rendering, asset loading, and scene management, demonstrating a holistic approach to building a foundational game development platform.
+
+Video:
+<iframe src="https://www.youtube.com/embed/Od93C2ISG74" width="640" height="480" allow="autoplay"></iframe>
 
 ### Maniacs(Unity)
 
@@ -20,7 +32,7 @@ Description:
 4. Player can collect diffent types of melee/shooting weapons to kill the zombies.
 
 Video: 
-<iframe src="https://drive.google.com/file/d/1U_C2vyjTJ4OvvH-dxqqRr114melqp2Np/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://youtu.be/YiSdhmQq9RY" width="640" height="480" allow="autoplay"></iframe>
 
 ### Little-Adventure(Unity)
 
@@ -33,7 +45,7 @@ Description:
 5. When the player destroyes the enimes in all regions the game is completed.  
 
 Video: 
-<iframe src="https://drive.google.com/file/d/1387nFVGWt4GmfJ8PuB5qkHckT1Pj7djj/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://youtu.be/MS0hBhmG8SY" width="640" height="480" allow="autoplay"></iframe>
 
 ### Multiplayer Top Spin Game(Unity)
 
@@ -46,8 +58,7 @@ Description:
 6. Whenever a player's speed becomes zero, he loses.
 
 Video: 
-<iframe src="https://drive.google.com/file/d/1azOcJk6blNIGN3PWdYcsNr8DVT_qDBa6/preview" width="640" height="480" allow="autoplay"></iframe>
-
+<iframe src="https://youtu.be/XFNV0KTawU4" width="640" height="480" allow="autoplay"></iframe>
 
 ### Bomberman(Unity)
 
@@ -59,7 +70,7 @@ Description:
 5. When there are only 2 enemies remaining, they move away from the player as far as possible.
 
 Video: 
-<iframe src="https://drive.google.com/file/d/1uZU63bv8w1Fjsz1FgGP2pXJONHN81Xim/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://youtu.be/Dw_dUJbwEas" width="640" height="480" allow="autoplay"></iframe>
 
 ### Snake Game(Unity)
 
@@ -73,7 +84,7 @@ Description:
 6. If the the Player attcts the head of the enemy the enemy is dead.
 
 Video: 
-<iframe src="https://drive.google.com/file/d/1Xf7BrcK1LzorOENNvWXiiqc7JBm6S818/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://youtu.be/xPQqw40An-s" width="640" height="480" allow="autoplay"></iframe>
 
 ### Obstacles Path(Unreal)
 
@@ -83,7 +94,7 @@ Description:
 3. The player has to go through these obstacles and reach his final destination.
 
 Video: 
-<iframe src="https://drive.google.com/file/d/1UYEjyXTsrtarQkPQbejlFqCE8-fO_6t5/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://youtu.be/wqA9bi4vpoI" width="640" height="480" allow="autoplay"></iframe>
 
 ### Warehouse Wreckage(Unreal)
 
@@ -93,7 +104,7 @@ Description:
 3. Hit Some Cans using those Projectiles and the Cans Fall Down.
 
 Video:
-<iframe src="https://drive.google.com/file/d/1T4DW7ZRGkYYPZh6L95njp_s4KwSBJ2lG/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://youtu.be/cjC4mtLGov8" width="640" height="480" allow="autoplay"></iframe>
 
 ### Racing Game Using Reinforcement Learning(Unity)
 
@@ -114,20 +125,6 @@ Descrption:
 
 Video:
 <iframe src="https://www.youtube.com/embed/rV2u6_DlC0s" width="640" height="480" allow="autoplay"></iframe>
-
-## Additional Projets
-
-### Game Engine By Dx11 Abstraction using C++ (Inprogress)
-
-1. DirectX 11 Abstraction for 3D Rendering: Architected and implemented a custom rendering pipeline in C++ by abstracting DirectX 11, enabling efficient rendering of 3D models, textures, and UV maps. This highlights expertise in graphics API programming and rendering techniques.
-2. Custom Resource Management System for 3D Assets: Developed a custom file library to manage the loading and handling of various 3D assets, including models, textures, and UV maps, ensuring efficient resource management and streamlined asset pipeline.
-3. Real-time Object Transformation and Manipulation: Implemented core 3D transformations (translation, rotation, and scaling) on loaded 3D models, demonstrating a fundamental understanding of 3D rendering pipelines and scene graph management.
-4. Custom Math Library for 3D Graphics Operations: Created a custom math library, encompassing vector and matrix operations, specifically tailored to handle 3D graphics transformations efficiently. This shows a strong grasp of linear algebra and its practical application in game development.
-5. PCS Tree for 3D Scene Management: Designed and implemented a custom PCS tree structure, showcasing the ability to organize and manage 3D objects within the game world for improved scalability and performance.
-6. Foundational Game Engine Development: Successfully developed a core set of features for a custom game engine, including rendering, asset loading, and scene management, demonstrating a holistic approach to building a foundational game development platform.
-
-Video:
-<iframe src="https://www.youtube.com/embed/Od93C2ISG74" width="640" height="480" allow="autoplay"></iframe>
 
 ### Audio Engine Usimg C++ in Multithread Aritechture
 

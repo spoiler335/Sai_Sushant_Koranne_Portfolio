@@ -45,7 +45,7 @@ Description:
 5. When the player destroyes the enimes in all regions the game is completed.  
 
 Video: 
-<iframe src="https://youtu.be/MS0hBhmG8SY" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://www.youtube.com/embed/MS0hBhmG8SY" width="640" height="480" allow="autoplay"></iframe>
 
 ### Multiplayer Top Spin Game(Unity)
 
@@ -58,7 +58,7 @@ Description:
 6. Whenever a player's speed becomes zero, he loses.
 
 Video: 
-<iframe src="https://youtu.be/XFNV0KTawU4" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://www.youtube.com/embed/XFNV0KTawU4" width="640" height="480" allow="autoplay"></iframe>
 
 ### Bomberman(Unity)
 
@@ -70,7 +70,7 @@ Description:
 5. When there are only 2 enemies remaining, they move away from the player as far as possible.
 
 Video: 
-<iframe src="https://youtu.be/Dw_dUJbwEas" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://www.youtube.com/embed/Dw_dUJbwEas" width="640" height="480" allow="autoplay"></iframe>
 
 ### Snake Game(Unity)
 
@@ -84,7 +84,7 @@ Description:
 6. If the the Player attcts the head of the enemy the enemy is dead.
 
 Video: 
-<iframe src="https://youtu.be/xPQqw40An-s" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://www.youtube.com/embed/xPQqw40An-s" width="640" height="480" allow="autoplay"></iframe>
 
 ### Obstacles Path(Unreal)
 
@@ -94,7 +94,7 @@ Description:
 3. The player has to go through these obstacles and reach his final destination.
 
 Video: 
-<iframe src="https://youtu.be/wqA9bi4vpoI" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://www.youtube.com/embed/wqA9bi4vpoI" width="640" height="480" allow="autoplay"></iframe>
 
 ### Warehouse Wreckage(Unreal)
 
@@ -104,7 +104,7 @@ Description:
 3. Hit Some Cans using those Projectiles and the Cans Fall Down.
 
 Video:
-<iframe src="https://youtu.be/cjC4mtLGov8" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://www.youtube.com/embed/cjC4mtLGov8" width="640" height="480" allow="autoplay"></iframe>
 
 ### Racing Game Using Reinforcement Learning(Unity)
 

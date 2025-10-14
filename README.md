@@ -32,7 +32,7 @@ Description:
 4. Player can collect diffent types of melee/shooting weapons to kill the zombies.
 
 Video: 
-<iframe src="https://youtu.be/YiSdhmQq9RY" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://www.youtube.com/embed/YiSdhmQq9RY" width="640" height="480" allow="autoplay"></iframe>
 
 ### Little-Adventure(Unity)
 

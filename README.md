@@ -149,7 +149,7 @@ C, C++, Java, C#
 
 ## More Works
 
-You can refer my [GitHub](https://github.com/spoiler335/) profile and these [Vidoes](https://drive.google.com/drive/folders/11bTFgOxsSBlbIwr5H27JbsfmvfofN14l?usp=sharing) for my futher works.
+You can refer my [GitHub](https://github.com/spoiler335/) profile for my futher works.
 
 ## Contact Me
 

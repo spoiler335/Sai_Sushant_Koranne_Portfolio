@@ -12,12 +12,14 @@ For futher information you can refer my [Resume](./Sai%20Sushant%20Koranne-Resum
 
 ### Game Engine By Dx11 Abstraction using C++ (Inprogress)
 
-1. DirectX 11 Abstraction for 3D Rendering: Architected and implemented a custom rendering pipeline in C++ by abstracting DirectX 11, enabling efficient rendering of 3D models, textures, and UV maps. This highlights expertise in graphics API programming and rendering techniques.
-2. Custom Resource Management System for 3D Assets: Developed a custom file library to manage the loading and handling of various 3D assets, including models, textures, and UV maps, ensuring efficient resource management and streamlined asset pipeline.
-3. Real-time Object Transformation and Manipulation: Implemented core 3D transformations (translation, rotation, and scaling) on loaded 3D models, demonstrating a fundamental understanding of 3D rendering pipelines and scene graph management.
-4. Custom Math Library for 3D Graphics Operations: Created a custom math library, encompassing vector and matrix operations, specifically tailored to handle 3D graphics transformations efficiently. This shows a strong grasp of linear algebra and its practical application in game development.
-5. PCS Tree for 3D Scene Management: Designed and implemented a custom PCS tree structure, showcasing the ability to organize and manage 3D objects within the game world for improved scalability and performance.
-6. Foundational Game Engine Development: Successfully developed a core set of features for a custom game engine, including rendering, asset loading, and scene management, demonstrating a holistic approach to building a foundational game development platform.
+1. DirectX 11 Rendering Pipeline: Architected a high-performance custom rendering pipeline in C++ by abstracting DirectX 11, providing low-level control over GPU resources, swap chains, and shaders.
+2. Custom Math Library: Built a SIMD-optimized math library from scratch (Vectors, Matrices, Quaternions) to support complex 3D physics, collision detection, and rendering calculations.
+3. PCS Tree Architecture: Designed a Parent-Child-Sibling (PCS) Tree data structure for the scene graph, ensuring efficient spatial management and hierarchical transformation propagation.
+4. GLB Asset Parsing: Integrated tinygltf to parse industry-standard .glb files, extracting raw mesh data, texture UVs, and animation hierarchies for engine use.
+5. Protocol Buffer Serialization: Developed a custom converter tool using Google Protocol Buffers to serialize raw asset data into optimized, engine-readable binary messages.
+6. Efficient Runtime Loading: Engineered a custom File Library that deserializes binary assets at runtime, significantly reducing load times compared to standard text-based formats.
+7. Skeletal Animation System: Implemented a complete animation system for skinned meshes, utilizing the custom binary format to perform real-time bone transformations.
+8. Core Transformation Systems: Programmed foundational 3D systems for Translation, Rotation, and Scaling, demonstrating a deep practical application of linear algebra and scene management.
 
 Video:
 <iframe src="https://www.youtube.com/embed/Od93C2ISG74" width="640" height="480" allow="autoplay"></iframe>

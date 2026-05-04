@@ -10,19 +10,26 @@ For futher information you can refer my [Resume](./Sai%20Sushant%20Koranne-Resum
 
 ## My Work
 
-### Game Engine By Dx11 Abstraction using C++ (Inprogress)
+### Game Engine By Dx11 Abstraction using C++
 
-1. **DirectX 11 Rendering Pipeline:** Architected a high-performance custom rendering pipeline in C++ by abstracting DirectX 11, providing low-level control over GPU resources, swap chains, and shaders.
+1. **DirectX 11 Rendering Pipeline:** Architected a high-performance custom rendering pipeline in C++ by abstracting DirectX 11, providing low-level control over GPU resources, swap chains, and shader pipelines.
+
 2. **Custom Math Library:** Built a SIMD-optimized math library from scratch (Vectors, Matrices, Quaternions) to support real-time 3D rendering and scene transformations.
+
 3. **PCS Tree Architecture:** Designed a Parent-Child-Sibling (PCS) Tree data structure for the scene graph, ensuring efficient spatial management and hierarchical transformation propagation.
-4. **GLB Asset Parsing:** Integrated tinygltf to parse industry-standard .glb files, extracting raw mesh data, texture UVs, and animation hierarchies for engine use.
-5. **Protocol Buffer Serialization:** Developed a custom converter tool using Google Protocol Buffers to serialize raw asset data into optimized, engine-readable binary messages.
+
+4. **GLB Asset Parsing & Data Extraction:** Integrated tinygltf to parse industry-standard .glb files, extracting raw mesh data, texture UVs, and animation data, including joint tables and hierarchy tables for skeleton mapping.
+
+5. **Protocol Buffer Serialization:** Developed a custom converter tool using Google Protocol Buffers to serialize extracted raw asset data into optimized, engine-readable binary messages.
+
 6. **Efficient Runtime Loading:** Engineered a custom File Library that deserializes binary assets at runtime, significantly reducing load times compared to standard text-based formats.
-7. **Skeletal Animation System:** Implemented a complete animation system for skinned meshes, utilizing the custom binary format to perform real-time bone transformations.
+
+7. **Skeletal Animation & Skinning:** Implemented a comprehensive animation system leveraging the extracted hierarchy tables, utilizing compute shaders for highly parallelized vertex skinning calculations to achieve real-time, high-performance bone transformations.
+
 8. **Core Transformation Systems:** Programmed foundational 3D systems for Translation, Rotation, and Scaling, demonstrating a deep practical application of linear algebra and scene management.
 
 Video:
-<iframe src="https://www.youtube.com/embed/04EIQK7dUYI" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://www.youtube.com/embed/v=2b42L__lZoU" width="640" height="480" allow="autoplay"></iframe>
 
 ### Maniacs(Unity)
 
